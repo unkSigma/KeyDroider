@@ -1,2 +1,2 @@
 # KeyDroider
-Name keeper for a project
+Coming soon
